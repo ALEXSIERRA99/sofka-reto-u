@@ -1,4 +1,9 @@
+Buenos dias
+proyecto reto sofka
+por: Juan alejandro sierra fierro
 
+proyecto realizado en el modelo POO
+Realizado bajo el lenguaje de programacion java.
 
 Requisitos:
 
